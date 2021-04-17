@@ -1,0 +1,24 @@
+[{
+    "id": 1,
+    "name": "AMD Ryzen 9 5900X",
+    "brand": "AMD",
+    "model": "Ryzen 9 5900X"
+},
+{
+    "id": 2,
+    "name": "AMD Ryzen 9 5950X",
+    "brand": "AMD",
+    "model": "Ryzen 9 5950X"
+},
+{
+    "id": 3,
+    "name": "Intel Core i9 11900K",
+    "brand": "Intel",
+    "model": "Core i9 11900K"
+},
+{
+    "id": 4,
+    "name": "Intel Core i9 Extreme Edition 10980XE",
+    "brand": "Intel",
+    "model": "Core i9 Extreme Edition 10980XE"
+}]

@@ -1,0 +1,10 @@
+.form-control {
+    background-color: #3c3b61;
+    border: 1px solid #3c3b61;
+    color: rgb(196, 191, 191);
+}
+
+.form-control::placeholder {
+    color: rgb(196, 191, 191);
+    text-align: center;
+}
